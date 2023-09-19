@@ -1,0 +1,100 @@
+---
+title: "101B Final Proj R code"
+output: html_document
+date: "2023-09-18"
+author: Loretta Hu, Tony Lyu, Bruce Zhang
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Data Import
+```{r}
+caffeine <- read.csv("101BFinalProj.csv")
+head(caffeine)
+```
+## Preparing Data
+```{r}
+dim(caffeine)
+colnames(caffeine)
+```
+
+```{r}
+caffeine$gender <- ifelse(caffeine$gender == "F", 0, 1)
+caffeine$gender <- as.factor(caffeine$gender)
+
+caffeine$Caffeine <- ifelse(caffeine$Caffeine == "Caffeinated ", 1, 0)
+caffeine$Caffeine <- as.factor(caffeine$Caffeine)
+
+head(caffeine)
+```
+
+
+## Boxplot
+```{r}
+library(ggplot2)
+gender_boxplot <- ggplot(caffeine, aes(x = gender, y = change)) +
+  geom_boxplot(fill = 15) +
+  xlab("Gender") +
+  ylab("Change in Memory Game Score") +
+  scale_x_discrete() + scale_x_discrete(labels = c("Females", "Males"))
+
+  
+Drink_boxplot <- ggplot(caffeine, aes(x = Drink.Type, y = change)) +
+  geom_boxplot(fill = 5) +
+  xlab("Drink Type") +ylab("") +  scale_x_discrete(labels = c("Coffee", "Energy", "Sports"))
+
+
+Caffeine_boxplot <- ggplot(caffeine, aes(x = Caffeine, y = change)) +
+  geom_boxplot(fill = 20) +
+  xlab("Caffeine condition") + ylab ("")  + scale_x_discrete(labels = c("Decaffeinated", "Caffeinated"))
+
+  
+
+library(gridExtra)
+grid.arrange(gender_boxplot, Drink_boxplot, Caffeine_boxplot, ncol = 3)
+
+```
+```{r}
+across_caf_boxplot <- ggplot(caffeine, aes(x = Caffeine, y = change)) +
+  geom_boxplot(aes(fill = Drink.Type))+
+  xlab("Caffeine condition") + ylab ("")  + scale_x_discrete(labels = c("Decaffeinated", "Caffeinated")) +ylab("Change in Memory Game Score")
+
+across_caf_boxplot
+```
+
+## Interaction Plot
+```{r}
+ggplot(caffeine, aes(x = Caffeine, y = change, 
+                     shape = Drink.Type,
+                     group = Drink.Type,
+                     color = Drink.Type)) +
+  stat_summary(fun = "mean", geom = "line") +
+  scale_color_manual(values = c("brown", "darkorange", "blue"))+
+  scale_x_discrete(labels = c("Decaffeinated", "Caffeinated")) + ylab("Mean of Change in Memory Game Score")
+```
+
+
+## Diagnostic Plot
+```{r}
+library(ggfortify)
+autoplot(aov(change ~ Drink.Type*Caffeine + gender, data = caffeine))
+```
+
+```{r}
+d.type <- rep(rep(c("Coffee", "Energy", "Sports"), 14),4)
+par(mfrow = c(2,2))
+
+plot(aov(change ~ d.type*Caffeine + gender, data = caffeine))
+```
+
+## ANOVA Table
+```{r}
+summary(aov(change ~ Drink.Type*Caffeine + gender, data = caffeine))
+```
+## TukeyHSD Test
+```{r}
+TukeyHSD(aov(change ~ Drink.Type*Caffeine + gender, data = caffeine))
+```
+

@@ -1,0 +1,190 @@
+ID,Name ,Drink Type ,Caffeine ,gender ,memory game time before ,memory game time after,change ,
+1,"TATSUYA BURKE
+",Coffee,Caffeinated ,M,57.7,49,-8.7,https://islands.smp.uq.edu.au/islander.php?id=72lwbdckct
+2,AARON SATO,Coffee,Caffeinated ,M,67.2,67.3,0.1,https://islands.smp.uq.edu.au/islander.php?id=fczs5c8lqa
+3,FELIX SORENSEN,Coffee,Caffeinated ,M,57.3,52,-5.3,https://islands.smp.uq.edu.au/islander.php?id=y7whhvjq6d
+4,DUNCAN DOCHERTY,Coffee,Caffeinated ,M,84.8,73.2,-11.6,https://islands.smp.uq.edu.au/islander.php?id=e7p7gcb9l4
+5,MINEO KIKUCHI,Coffee,Caffeinated ,M,66.1,75.3,9.2,https://islands.smp.uq.edu.au/islander.php?id=ypzj78ba3p
+6,PIERRICK BAGER,Coffee,Caffeinated ,M,80.2,79.7,-0.5,https://islands.smp.uq.edu.au/islander.php?id=v97geuxj2p
+7,RYAN WATANABE,Coffee,Caffeinated ,M,48.9,46.4,-2.5,https://islands.smp.uq.edu.au/islander.php?id=7h9z7hkz9x
+8,HERBERT MEIER,Coffee,Caffeinated ,M,46.4,50.5,4.1,https://islands.smp.uq.edu.au/islander.php?id=bbvxr5k3xy
+9,JUHANI JENSEN,Coffee,Caffeinated ,M,56.5,54.6,-1.9,https://islands.smp.uq.edu.au/islander.php?id=e4tgs2r59s
+10,MURDO MCINTYRE,Coffee,Caffeinated ,M,36.4,44.1,7.7,https://islands.smp.uq.edu.au/islander.php?id=4cbbjb3tc2
+11,AIDAN KIMURA,Coffee,Caffeinated ,M,49.1,57.2,8.1,https://islands.smp.uq.edu.au/islander.php?id=7pnk5bmxl3
+12,BRIAN MCKAY,Coffee,Caffeinated ,M,54.8,45,-9.8,https://islands.smp.uq.edu.au/islander.php?id=8hpcg6swzl
+13,DAICHI MORRIS,Coffee,Caffeinated ,M,43.7,32.4,-11.3,https://islands.smp.uq.edu.au/islander.php?id=nt2gm4j658
+14,ARTHUR MOORE,Coffee,Caffeinated ,M,61.1,63,1.9,https://islands.smp.uq.edu.au/islander.php?id=pe2kmnbrxz
+15,CHRISTIAN THORN,Sports Drink,Caffeinated ,M,44.8,46.8,2,https://islands.smp.uq.edu.au/islander.php?id=xfrmsfgyp7
+16,DAVID SVENDSEN,Sports Drink,Caffeinated ,M,72,74.9,2.9,https://islands.smp.uq.edu.au/islander.php?id=aljahnvg9g
+17,JEAN BENOIT,Sports Drink,Caffeinated ,M,48,39.6,-8.4,https://islands.smp.uq.edu.au/islander.php?id=ct3qsnlxdw
+18,JULIAN SOLBERG,Sports Drink,Caffeinated ,M,41.3,47.9,6.6,https://islands.smp.uq.edu.au/islander.php?id=3brqlhgla2
+19,PERCIVAL SORENSEN,Sports Drink,Caffeinated ,M,77.3,80.2,2.9,https://islands.smp.uq.edu.au/islander.php?id=gtsh53h5r8
+20,REMI MARTINS,Sports Drink,Caffeinated ,M,71.9,68.3,-3.6,https://islands.smp.uq.edu.au/islander.php?id=yxgeu2dgs2
+21,ROBERTO GARNIER,Sports Drink,Caffeinated ,M,73.8,71,-2.8,https://islands.smp.uq.edu.au/islander.php?id=k539cy932q
+22,RAJAN BAHADUR,Sports Drink,Caffeinated ,M,63.2,60,-3.2,https://islands.smp.uq.edu.au/islander.php?id=pwwhxbk73q
+23,MATHIS COLLINS,Sports Drink,Caffeinated ,M,62.6,61.7,-0.9,https://islands.smp.uq.edu.au/islander.php?id=4eplgj27ax
+24,MITSUHIRO YAMAGUCHI,Sports Drink,Caffeinated ,M,68.1,63.2,-4.9,https://islands.smp.uq.edu.au/islander.php?id=4pe2uypfjm
+25,ALEXANDRE GAGNON,Sports Drink,Caffeinated ,M,49.6,50.8,1.2,https://islands.smp.uq.edu.au/islander.php?id=dhllgx8rh6
+26,PAULO RENARD,Sports Drink,Caffeinated ,M,44.8,52.8,8,https://islands.smp.uq.edu.au/islander.php?id=td3hkk2kqp
+27,SHANE SUMMERS,Sports Drink,Caffeinated ,M,108,96,-12,https://islands.smp.uq.edu.au/islander.php?id=p9pb9egx6f
+28,ADAM MCCARTHY,Sports Drink,Caffeinated ,M,63,53.5,-9.5,https://islands.smp.uq.edu.au/islander.php?id=kryt963z5t
+29,GEN KIMURA,Energy Drink,Caffeinated ,M,67.7,66.1,-1.6,https://islands.smp.uq.edu.au/islander.php?id=eyanp9vknu
+30,PAUL IBSEN,Energy Drink,Caffeinated ,M,60.1,58.7,-1.4,https://islands.smp.uq.edu.au/islander.php?id=3tqe9dzcyb
+31,AADESH MISHRA,Energy Drink,Caffeinated ,M,88.1,84.2,-3.9,https://islands.smp.uq.edu.au/islander.php?id=mu9c3nj6bs
+32,FRED CHEVALIER,Energy Drink,Caffeinated ,M,57.5,55.7,-1.8,https://islands.smp.uq.edu.au/islander.php?id=4unjv2axql
+33,PIERRICK EKLUND,Energy Drink,Caffeinated ,M,70.9,63,-7.9,https://islands.smp.uq.edu.au/islander.php?id=p9f5lzzcp6
+34,MICHAEL REGAN,Energy Drink,Caffeinated ,M,67.7,55.9,-11.8,https://islands.smp.uq.edu.au/islander.php?id=ktp7zkbcg6
+35,MARC WOLF,Energy Drink,Caffeinated ,M,47.7,44.9,-2.8,https://islands.smp.uq.edu.au/islander.php?id=kkmzbcvy5q
+36,MARC LENZ,Energy Drink,Caffeinated ,M,42.4,33.5,-8.9,https://islands.smp.uq.edu.au/islander.php?id=7mhmmvyycl
+37,BLAISE ABEL,Energy Drink,Caffeinated ,M,45.7,46.2,0.5,https://islands.smp.uq.edu.au/islander.php?id=47h6rwp8wq
+38,RIKU SATO,Energy Drink,Caffeinated ,M,66.2,58.5,-7.7,https://islands.smp.uq.edu.au/islander.php?id=z85gh88c3b
+39,STEN IBSEN,Energy Drink,Caffeinated ,M,75.4,79.5,4.1,https://islands.smp.uq.edu.au/islander.php?id=yfn947nkqr
+40,JULIAN SOLBERG,Energy Drink,Caffeinated ,M,45.8,50.7,4.9,https://islands.smp.uq.edu.au/islander.php?id=sv2m37xpmd
+41,RIKU MCCARTHY,Energy Drink,Caffeinated ,M,61.9,57.2,-4.7,https://islands.smp.uq.edu.au/islander.php?id=4g7pbylqm8
+42,JACK JONES,Energy Drink,Caffeinated ,M,75,76.7,1.7,https://islands.smp.uq.edu.au/islander.php?id=9xh4mlnqff
+43,IAN CONNOLLY,Coffee,Decaffeinated ,M,60.7,60.9,0.2,https://islands.smp.uq.edu.au/islander.php?id=bl3d4jdqkr
+44,BRAYDEN COLLINS,Coffee,Decaffeinated ,M,62.3,70.3,8,https://islands.smp.uq.edu.au/islander.php?id=lx5sntayra
+45,KIN CONNOLLY,Coffee,Decaffeinated ,M,89.8,90,0.2,https://islands.smp.uq.edu.au/islander.php?id=e2sbcrnck7
+46,RALPH BLACK,Coffee,Decaffeinated ,M,54.2,56.1,1.9,https://islands.smp.uq.edu.au/islander.php?id=qmzpgayvc6
+47,NEIL MCKAY,Coffee,Decaffeinated ,M,56.5,51.7,-4.8,https://islands.smp.uq.edu.au/islander.php?id=vza6arf84u
+48,GYAN VARMA,Coffee,Decaffeinated ,M,120,126,6,https://islands.smp.uq.edu.au/islander.php?id=eg8jsbvsar
+49,MITCHELL MCCARTHY,Coffee,Decaffeinated ,M,48,35.8,-12.2,https://islands.smp.uq.edu.au/islander.php?id=qvyqxkrjvl
+50,LEIF JENSEN,Coffee,Decaffeinated ,M,86.2,85.3,-0.9,https://islands.smp.uq.edu.au/islander.php?id=437qrqrprn
+51,TOM SATO,Coffee,Decaffeinated ,M,70.5,60.6,-9.9,https://islands.smp.uq.edu.au/islander.php?id=asd8p56cca
+52,AUSTIN WILSON,Coffee,Decaffeinated ,M,50.5,51.6,1.1,https://islands.smp.uq.edu.au/islander.php?id=vuaktxhzgb
+53,KIRK BAGER,Coffee,Decaffeinated ,M,64,72.6,8.6,https://islands.smp.uq.edu.au/islander.php?id=mh37hwehfd
+54,KAZUKI EDWARDS,Coffee,Decaffeinated ,M,66.6,62.1,-4.5,https://islands.smp.uq.edu.au/islander.php?id=w8mx2uzxn2
+55,ZENTARO SAKURAI,Coffee,Decaffeinated ,M,88.5,90,1.5,https://islands.smp.uq.edu.au/islander.php?id=5cq24qb9gb
+56,SHO EDWARDS,Coffee,Decaffeinated ,M,84.7,79,-5.7,https://islands.smp.uq.edu.au/islander.php?id=5tbbe226c2
+57,,Sports Drink,Decaffeinated ,M,39.7,34.1,-5.6,
+58,,Sports Drink,Decaffeinated ,M,69.2,60.5,-8.7,
+59,,Sports Drink,Decaffeinated ,M,41,49.2,8.2,
+60,,Sports Drink,Decaffeinated ,M,68.5,64,-4.5,
+61,,Sports Drink,Decaffeinated ,M,61.2,54.4,-6.8,
+62,,Sports Drink,Decaffeinated ,M,53.2,51.7,-1.5,
+63,,Sports Drink,Decaffeinated ,M,77.4,78.1,0.7,
+64,,Sports Drink,Decaffeinated ,M,51.1,45.3,-5.8,
+65,,Sports Drink,Decaffeinated ,M,62.5,57.5,-5,
+66,,Sports Drink,Decaffeinated ,M,70.9,71.7,0.8,
+67,,Sports Drink,Decaffeinated ,M,45.3,46.2,0.9,
+68,,Sports Drink,Decaffeinated ,M,47.9,50.1,2.2,
+69,,Sports Drink,Decaffeinated ,M,62.5,57.5,-5,
+70,,Sports Drink,Decaffeinated ,M,70.9,71.7,0.8,
+71,,Energy Drink,Decaffeinated ,M,39.7,34.1,-5.6,
+72,,Energy Drink,Decaffeinated ,M,69.2,60.5,-8.7,
+73,,Energy Drink,Decaffeinated ,M,41,49.2,8.2,
+74,,Energy Drink,Decaffeinated ,M,68.5,64,-4.5,
+75,,Energy Drink,Decaffeinated ,M,61.2,54.4,-6.8,
+76,,Energy Drink,Decaffeinated ,M,47.6,41.6,-6,
+77,,Energy Drink,Decaffeinated ,M,52.6,52.7,0.1,
+78,,Energy Drink,Decaffeinated ,M,66.9,67,0.1,
+79,,Energy Drink,Decaffeinated ,M,39.7,34.1,-5.6,
+80,,Energy Drink,Decaffeinated ,M,69.2,60.5,-8.7,
+81,,Energy Drink,Decaffeinated ,M,41,49.2,8.2,
+82,,Energy Drink,Decaffeinated ,M,68.5,64,-4.5,
+83,,Energy Drink,Decaffeinated ,M,61.2,54.4,-6.8,
+84,,Energy Drink,Decaffeinated ,M,102,108,6,
+85,,Coffee,Caffeinated ,F,78.6,80.7,2.1,
+86,,Coffee,Caffeinated ,F,63.2,62,-1.2,
+87,,Coffee,Caffeinated ,F,66.8,56.1,-10.7,
+88,,Coffee,Caffeinated ,F,48.4,41,-7.4,
+89,,Coffee,Caffeinated ,F,54.8,45.6,-9.2,
+90,,Coffee,Caffeinated ,F,69.1,63,-6.1,
+91,,Coffee,Caffeinated ,F,71.3,71.1,-0.2,
+92,,Coffee,Caffeinated ,F,62.5,59.6,-2.9,
+93,,Coffee,Caffeinated ,F,67,56.1,-10.9,
+94,,Coffee,Caffeinated ,F,78.6,80.7,2.1,
+95,,Coffee,Caffeinated ,F,63.2,62,-1.2,
+96,,Coffee,Caffeinated ,F,66.8,56.1,-10.7,
+97,,Coffee,Caffeinated ,F,62,64.7,2.7,
+98,,Coffee,Caffeinated ,F,69.1,65,-4.1,
+99,,Sports Drink,Caffeinated ,F,90,90,0,
+100,,Sports Drink,Caffeinated ,F,42.4,43.3,0.9,
+101,,Sports Drink,Caffeinated ,F,27,29.5,2.5,
+102,,Sports Drink,Caffeinated ,F,73.6,80.5,6.9,
+103,,Sports Drink,Caffeinated ,F,90,60.1,-29.9,
+104,,Sports Drink,Caffeinated ,F,34.1,49.1,15,
+105,,Sports Drink,Caffeinated ,F,87.8,81.2,-6.6,
+106,,Sports Drink,Caffeinated ,F,96,89.6,-6.4,
+107,,Sports Drink,Caffeinated ,F,33,39.6,6.6,
+108,,Sports Drink,Caffeinated ,F,74.2,82,7.8,
+109,,Sports Drink,Caffeinated ,F,54.2,55.5,1.3,
+110,,Sports Drink,Caffeinated ,F,78.1,82.4,4.3,
+111,,Sports Drink,Caffeinated ,F,66.9,66.3,-0.6,
+112,,Sports Drink,Caffeinated ,F,78.3,70.9,-7.4,
+113,"ELSA CARLSEN
+",Energy Drink,Caffeinated ,F,61.9,55.2,-6.7,https://islands.smp.uq.edu.au/islander.php?id=lwlvz3bu23
+114,"GRACE COLLINS
+",Energy Drink,Caffeinated ,F,66.4,64.5,-1.9,https://islands.smp.uq.edu.au/islander.php?id=kurv63zdmv
+115,"EMMA EDWARDS
+",Energy Drink,Caffeinated ,F,108,102,-6,https://islands.smp.uq.edu.au/islander.php?id=zxlb2s8vrn
+116,"ISABELLE EKLUND
+",Energy Drink,Caffeinated ,F,60,59.1,-0.9,https://islands.smp.uq.edu.au/islander.php?id=vb34y58g49
+117,"LILA CONNOLLY
+",Energy Drink,Caffeinated ,F,54.4,53.8,-0.6,https://islands.smp.uq.edu.au/islander.php?id=94mmww2ysz
+118,SONJA SOLBERG,Energy Drink,Caffeinated ,F,102,102,0,https://islands.smp.uq.edu.au/islander.php?id=bg64jg32sc
+119,CHLOE BROWN,Energy Drink,Caffeinated ,F,60.9,48.8,-12.1,https://islands.smp.uq.edu.au/islander.php?id=kxaywvmws5
+120,,Energy Drink,Caffeinated ,F,76.4,69.1,-7.3,
+121,,Energy Drink,Caffeinated ,F,84.7,74.5,-10.2,https://islands.smp.uq.edu.au/islander.php?id=s8pceweyew
+122,,Energy Drink,Caffeinated ,F,61.5,59.3,-2.2,https://islands.smp.uq.edu.au/islander.php?id=f53k35c8uc
+123,,Energy Drink,Caffeinated ,F,74.2,69.1,-5.1,https://islands.smp.uq.edu.au/islander.php?id=daq6yhvwnm
+124,,Energy Drink,Caffeinated ,F,79.6,73.9,-5.7,https://islands.smp.uq.edu.au/islander.php?id=cju4mr78c5
+125,,Energy Drink,Caffeinated ,F,33.7,34.5,0.8,
+126,,Energy Drink,Caffeinated ,F,71,70.6,-0.4,
+127,"HARUKA HALL
+",Coffee,Decaffeinated ,F,46.6,50.8,4.2,https://islands.smp.uq.edu.au/islander.php?id=zrfnp8t72z
+128,"ANASTASIA ERICKSON
+",Coffee,Decaffeinated ,F,74.8,70.6,-4.2,https://islands.smp.uq.edu.au/islander.php?id=fs4dnfhfas
+129,"HELGA LARSEN
+",Coffee,Decaffeinated ,F,74.3,79.4,5.1,https://islands.smp.uq.edu.au/islander.php?id=nr4tznkzts
+130,"RACHELLE LUND
+",Coffee,Decaffeinated ,F,61.4,71.9,10.5,https://islands.smp.uq.edu.au/islander.php?id=ykdd3y7x9r
+131,"NATSUME MASUDA
+",Coffee,Decaffeinated ,F,96,96,0,https://islands.smp.uq.edu.au/islander.php?id=yvee767jam
+132,,Coffee,Decaffeinated ,F,67.8,66,-1.8,
+133,,Coffee,Decaffeinated ,F,80.3,78.7,-1.6,
+134,,Coffee,Decaffeinated ,F,52,49.4,-2.6,
+135,,Coffee,Decaffeinated ,F,60,57.7,-2.3,
+136,,Coffee,Decaffeinated ,F,90,96,6,
+137,,Coffee,Decaffeinated ,F,39.5,36.4,-3.1,https://islands.smp.uq.edu.au/islander.php?id=aj6amkqe8d
+138,,Coffee,Decaffeinated ,F,45.5,48.1,2.6,https://islands.smp.uq.edu.au/islander.php?id=6tch9kl8r2
+139,,Coffee,Decaffeinated ,F,84.1,87.6,3.5,
+140,,Coffee,Decaffeinated ,F,90,96,6,
+141,"ABIGAIL MORRIS
+",Sports Drink,Decaffeinated ,F,57.6,64.1,6.5,https://islands.smp.uq.edu.au/islander.php?id=rlwf6czy9e
+142,"BAILEY MORRIS
+",Sports Drink,Decaffeinated ,F,90,96,6,https://islands.smp.uq.edu.au/islander.php?id=jn369n3hkw
+143,"KANAMI NISHIMURA
+",Sports Drink,Decaffeinated ,F,72.4,78.7,6.3,https://islands.smp.uq.edu.au/islander.php?id=akbmkf279c
+144,"AIRELOU THORN
+",Sports Drink,Decaffeinated ,F,61.4,55.3,-6.1,https://islands.smp.uq.edu.au/islander.php?id=ba2kgnktqb
+145,"BRITTANY CONNOLLY
+",Sports Drink,Decaffeinated ,F,68,61.6,-6.4,https://islands.smp.uq.edu.au/islander.php?id=tpae8wx657
+146,,Sports Drink,Decaffeinated ,F,73.1,74.2,1.1,https://islands.smp.uq.edu.au/islander.php?id=qnb4rp4jxv
+147,,Sports Drink,Decaffeinated ,F,39.5,36.4,-3.1,https://islands.smp.uq.edu.au/islander.php?id=aj6amkqe8d
+148,,Sports Drink,Decaffeinated ,F,56.3,46.9,-9.4,
+149,,Sports Drink,Decaffeinated ,F,63.7,56.5,-7.2,https://islands.smp.uq.edu.au/islander.php?id=rq8w5jxheg
+150,,Sports Drink,Decaffeinated ,F,52.6,52.2,-0.4,https://islands.smp.uq.edu.au/islander.php?id=suf7xr8crj
+151,,Sports Drink,Decaffeinated ,F,44.2,43.7,-0.5,
+152,,Sports Drink,Decaffeinated ,F,55.6,59.9,4.3,
+153,,Sports Drink,Decaffeinated ,F,33.5,55.2,21.7,
+154,,Sports Drink,Decaffeinated ,F,53.9,49.6,-4.3,https://islands.smp.uq.edu.au/islander.php?id=d538f7va97
+155,"OPHELIA PAGE
+",Energy Drink,Decaffeinated ,F,68.5,61.7,-6.8,https://islands.smp.uq.edu.au/islander.php?id=7uujppg7nf
+156,"ZAHIRA SINGH
+",Energy Drink,Decaffeinated ,F,85.9,79.9,-6,https://islands.smp.uq.edu.au/islander.php?id=h5yffyb5rq
+157,"JENEVE SOLBERG
+",Energy Drink,Decaffeinated ,F,87.1,86.7,-0.4,https://islands.smp.uq.edu.au/islander.php?id=y7sxx369sw
+158,"ASTRID SORENSEN
+",Energy Drink,Decaffeinated ,F,52.5,44.5,-8,https://islands.smp.uq.edu.au/islander.php?id=n68qefv2ge
+159,"MAGDALENA SORENSEN
+",Energy Drink,Decaffeinated ,F,58.7,54.4,-4.3,https://islands.smp.uq.edu.au/islander.php?id=jy6quhrbrd
+160,,Energy Drink,Decaffeinated ,F,61.6,55.4,-6.2,https://islands.smp.uq.edu.au/islander.php?id=63zvsdga4f
+161,,Energy Drink,Decaffeinated ,F,62.8,58.9,-3.9,
+162,,Energy Drink,Decaffeinated ,F,48.9,45.4,-3.5,
+163,,Energy Drink,Decaffeinated ,F,81.6,82.4,0.8,
+164,,Energy Drink,Decaffeinated ,F,77.6,74.2,-3.4,
+165,,Energy Drink,Decaffeinated ,F,59.3,53.3,-6,
+166,,Energy Drink,Decaffeinated ,F,68.2,63.9,-4.3,
+167,,Energy Drink,Decaffeinated ,F,72.4,70.2,-2.2,
+168,,Energy Drink,Decaffeinated ,F,61.9,62.3,0.4,
